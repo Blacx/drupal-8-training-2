@@ -1,0 +1,14 @@
+uuid: b5535b0b-9774-4794-b7ea-744caa51e4b4
+name: 'Drupal 8 Site2'
+mail: whisnu@voxteneo.asia
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
